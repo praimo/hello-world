@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Just another repository
+This includes instructions on how to use the application.
